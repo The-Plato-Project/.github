@@ -8,7 +8,6 @@ Technology has a deliberate but subordinate role in this pursuit. It provides ac
 
 At the heart of this project is the conviction that human understanding and the wisdom of the soul cannot be delegated to the techne of the machine. The reader must remain the one who is ever present, as one who encounters, questions, remembers, discerns, and ultimately comes to see something they didn't notice before. Our purpose is to preserve and cultivate that distinctly human work.
 
-_οὐδὲν γὰρ ἄλλο πράττων ἐγὼ περιέρχομαι ἢ πείθων ὑμῶν καὶ νεωτέρους καὶ πρεσβυτέρους μήτε σωμάτων ἐπιμελεῖσθαι μήτε χρημάτων πρότερον μηδὲ οὕτω σφόδρα ὡς τῆς ψυχῆς ὅπως ὡς ἀρίστη ἔσται 
-   
-- Plato, Apology 30a7–30b2, Greek text edited by John Burnet, Platonis Opera, Vol. I (Oxford: Clarendon Press, 1900)._
-
+> οὐδὲν γὰρ ἄλλο πράττων ἐγὼ περιέρχομαι ἢ πείθων ὑμῶν καὶ νεωτέρους καὶ πρεσβυτέρους μήτε σωμάτων ἐπιμελεῖσθαι μήτε χρημάτων πρότερον μηδὲ οὕτω σφόδρα ὡς τῆς ψυχῆς ὅπως ὡς ἀρίστη ἔσται.
+>  
+> *Plato, Apology 30a7–30b2, Greek text edited by John Burnet, Platonis Opera, Vol. I (Oxford: Clarendon Press, 1900)._*
