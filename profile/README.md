@@ -18,6 +18,12 @@ This principle seeks to move beyond didactic systems of learning, in which knowl
 
 We are also exploring how Bitcoin might support this decentralized form of education, enabling new possibilities for the exchange of knowledge, recognition of contributions, and genuine reciprocity among participants. The purpose is not simply to monetize learning, but to explore how value may circulate among those who contribute to a shared pursuit of understanding, without placing that inquiry under a new central authority.
 
+### Project Availability
+
+The Plato Project repositories are currently private while the applications are under active development. The source code will be made publicly available with the first release.
+
+We believe that open access, transparency, and independent participation are essential to the decentralized inquiry this project seeks to cultivate.
+
 ---
 
 > οὐδὲν γὰρ ἄλλο πράττων ἐγὼ περιέρχομαι ἢ πείθων ὑμῶν καὶ νεωτέρους καὶ πρεσβυτέρους μήτε σωμάτων ἐπιμελεῖσθαι μήτε χρημάτων πρότερον μηδὲ οὕτω σφόδρα ὡς τῆς ψυχῆς ὅπως ὡς ἀρίστη ἔσται.
