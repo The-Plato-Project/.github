@@ -1,5 +1,5 @@
 
-## Mission Statement
+# Mission Statement
 
 Our mission is to restore the art of reading Plato as a living encounter between human soul and the Greek text, where understanding is grounded in the original Greek and guided by the reader's own questions, attention, and discernment.
 
