@@ -10,11 +10,6 @@ At the heart of this project is the conviction that human understanding and the 
 
 
 
-### Project Availability
-
-The Plato Project repositories are currently private while the applications are under active development. The source code will be made publicly available with the first release.
-
-We believe that open access, transparency, and independent participation are essential to the decentralized inquiry this project seeks to cultivate.
 
 ---
 
