@@ -8,15 +8,7 @@ Technology has a deliberate but subordinate role in this pursuit. It provides ac
 
 At the heart of this project is the conviction that human understanding and the wisdom of the soul cannot be delegated to the techne of the machine. The reader must remain the one who is ever present, as one who encounters, questions, remembers, discerns, and ultimately comes to see something they didn't notice before. Our purpose is to preserve and cultivate that distinctly human work.
 
-### A Principle of Decentralized Inquiry
 
-We envision each reader as an independent node in a decentralized community of inquiry, where insights into the ancient texts may be shared as possible clues to the nature of Platonic thought, rather than presented as authoritative interpretations.
-
-The strength of an insight rests in its grounding in the Greek text, not in the credentials or authority of the person offering it. Its textual evidence must be open to independent examination, while its significance remains open to questioning, dialogue, and further discovery. In this way, individual insights may contribute to a growing collective inquiry without becoming prescribed conclusions.
-
-This principle seeks to move beyond didactic systems of learning, in which knowledge is transmitted as something to be received and repeated. Instead, every reader retains the freedom and responsibility to examine the evidence, pursue connections, challenge interpretations, and contribute what they discover.
-
-We are also exploring how Bitcoin might support this decentralized form of education, enabling new possibilities for the exchange of knowledge, recognition of contributions, and genuine reciprocity among participants. The purpose is not simply to monetize learning, but to explore how value may circulate among those who contribute to a shared pursuit of understanding, without placing that inquiry under a new central authority.
 
 ### Project Availability
 
